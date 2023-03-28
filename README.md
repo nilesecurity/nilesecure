@@ -1,7 +1,7 @@
 # nilesecure
 Network as a Security
 
-As the world becomes more connected and reliant on technology, businesses are constantly seeking new ways to improve their network infrastructure. One of the most promising solutions for organizations of all sizes is Network as a Service (NaaS).
+As the world becomes more connected and reliant on technology, businesses are constantly seeking new ways to improve their network infrastructure. One of the most promising solutions for organizations of all sizes is <a href="https://nilesecure.com">Network as a Service</a> (NaaS).
 
 NaaS is a cloud-based networking solution that provides organizations with a range of benefits. These include increased scalability, reduced costs, and improved network security. NaaS solutions are particularly useful for organizations that have a distributed workforce, or those that need to manage multiple locations.
 
